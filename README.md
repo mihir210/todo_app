@@ -1,8 +1,6 @@
 # For make this app install flask
 
-	```shell
 	pip install Flask
-	```
 
 
 # For database
