@@ -1,4 +1,11 @@
-# for database
+# For make this app install flask
+
+	```shell
+	pip install Flask
+	```
+
+
+# For database
 
 install flask-sqlalchemy
 
