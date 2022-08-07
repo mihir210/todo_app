@@ -29,7 +29,7 @@
 	app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False 
 
 
-#To set a database to app
+# To set a database to app
 
 to set database with app you need to create a sqllite database
 
