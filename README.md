@@ -1,4 +1,4 @@
-#for database
+# for database
 
 install flask-sqlalchemy
 
@@ -14,7 +14,7 @@ install flask-sqlalchemy
 
 #To set a database to app
 
-	to set database with app you need to create a sqllite database
+to set database with app you need to create a sqllite database
 
 	```shell
 	python
@@ -25,6 +25,6 @@ install flask-sqlalchemy
 
 # to show database contant
 
-	upload your database to this website
-	[view database](https://inloop.github.io/sqlite-viewer/)
+upload your database to this website
+[view database](https://inloop.github.io/sqlite-viewer/)
 	
