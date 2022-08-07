@@ -2,9 +2,9 @@
 
 install flask-sqlalchemy
 
-	```shell
+	
 	pip install flask-sqlalchemy
-	```
+	
 
 # TO configure sqlalchemy
 
@@ -16,12 +16,12 @@ install flask-sqlalchemy
 
 to set database with app you need to create a sqllite database
 
-	```shell
+	
 	python
 	from app import db
 	db.create_all()
 	exit()
-	```
+	
 
 # to show database contant
 
